@@ -4,7 +4,9 @@ ___IMPORTHEADER_extendedClass___
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface ___VARIABLE_extendedClass:identifier___ (___VARIABLE_productName:identifier___)
+@interface ___VARIABLE_extendedClass:identifier___ (___VARIABLE_productName:identifier___) {
+  @private
+}
 
 @end
 
